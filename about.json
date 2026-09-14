@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "name": "Maze",
+  "description": "Code, Design, Curation.",
+  "sections": [
+    {
+      "title": "About Me",
+      "type": "text",
+      "content": "Coming Soon."
+    }
+  ]
+}
