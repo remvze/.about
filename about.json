@@ -6,7 +6,19 @@
     {
       "title": "About Me",
       "type": "text",
-      "content": "Coming Soon."
+      "content": "I'm an independent designer and engineer."
+    },
+    {
+      "title": "Experience",
+      "type": "list",
+      "items": [
+        {
+          "title": "MVZED",
+          "description": "Founder & Director",
+          "url": "https://mvzed.com",
+          "date": "2026–Present"
+        }
+      ]
     }
   ]
 }
